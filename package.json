@@ -1,5 +1,5 @@
 {
-  "name": "roc_ai",
+  "name": "xinhong.manager",
   "version": "0.0.0",
   "private": true,
   "type": "module",
@@ -14,10 +14,7 @@
     "driver.js": "^0.9.8",
     "echarts": "^5.4.3",
     "element-plus": "^2.4.4",
-    "mysql": "^2.18.1",
-    "papaparse": "^5.4.1",
     "pinia": "^2.1.7",
-    "tesseract.js": "^5.1.1",
     "three": "^0.160.0",
     "vanta": "^0.5.24",
     "vue": "^3.3.11",
